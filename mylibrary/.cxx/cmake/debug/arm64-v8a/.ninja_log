@@ -1,0 +1,11 @@
+# ninja log v5
+2	565	666770250	CMakeFiles/native-lib.dir/native-lib.cpp.o	847993a8b81b5e21
+3	316	666770274	E:/StudioProjects/sign-app/mylibrary/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	63d585564fd49b89
+2	525	666770288	CMakeFiles/native-sign-utils.dir/native-sign-utils.cpp.o	89d84b2bdd001cd1
+526	826	666770288	E:/StudioProjects/sign-app/mylibrary/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-sign-utils.so	f65ef879b8a34827
+2	528	666770587	CMakeFiles/native-sign-utils.dir/native-sign-utils.cpp.o	89d84b2bdd001cd1
+528	828	666770587	E:/StudioProjects/sign-app/mylibrary/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-sign-utils.so	f65ef879b8a34827
+1	557	666770791	CMakeFiles/native-sign-utils.dir/native-sign-utils.cpp.o	89d84b2bdd001cd1
+557	864	666770792	E:/StudioProjects/sign-app/mylibrary/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-sign-utils.so	f65ef879b8a34827
+1	527	666771941	CMakeFiles/native-sign-utils.dir/native-sign-utils.cpp.o	89d84b2bdd001cd1
+527	828	666771942	E:/StudioProjects/sign-app/mylibrary/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-sign-utils.so	f65ef879b8a34827

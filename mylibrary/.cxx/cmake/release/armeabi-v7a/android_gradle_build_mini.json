@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\StudioProjects\\sign-app\\mylibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-sign-utils-Release-armeabi-v7a": {
+      "artifactName": "native-sign-utils",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\armeabi-v7a\" native-sign-utils",
+      "abi": "armeabi-v7a",
+      "output": "E:\\StudioProjects\\sign-app\\mylibrary\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libnative-sign-utils.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Release-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\armeabi-v7a\" native-lib",
+      "abi": "armeabi-v7a",
+      "output": "E:\\StudioProjects\\sign-app\\mylibrary\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

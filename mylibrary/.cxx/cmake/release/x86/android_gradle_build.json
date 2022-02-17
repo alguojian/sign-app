@@ -1,0 +1,61 @@
+{
+  "stringTable": {
+    "0": "E:/StudioProjects/sign-app/mylibrary/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android18 --gcc-toolchain=E:/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_sign_utils_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC",
+    "2": "--target=i686-none-linux-android18 --gcc-toolchain=E:/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "E:\\StudioProjects\\sign-app\\mylibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\x86\" native-lib",
+      "buildType": "release",
+      "toolchain": "1878291986",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "E:\\StudioProjects\\sign-app\\mylibrary\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\StudioProjects\\sign-app\\mylibrary\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "native-sign-utils-Release-x86": {
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\release\\x86\" native-sign-utils",
+      "buildType": "release",
+      "toolchain": "1878291986",
+      "abi": "x86",
+      "artifactName": "native-sign-utils",
+      "files": [
+        {
+          "src": "E:\\StudioProjects\\sign-app\\mylibrary\\src\\main\\cpp\\native-sign-utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\StudioProjects\\sign-app\\mylibrary\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-sign-utils.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1878291986": {
+      "cppCompilerExecutable": "E:\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

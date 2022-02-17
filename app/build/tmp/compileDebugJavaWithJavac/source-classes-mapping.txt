@@ -1,0 +1,2 @@
+com/signapp/example/BuildConfig.java
+ com.signapp.example.BuildConfig

@@ -1,0 +1,10 @@
+ninja: Entering directory `E:\StudioProjects\sign-app\mylibrary\.cxx\cmake\debug\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/native-sign-utils.dir/native-sign-utils.cpp.o
+E:/StudioProjects/sign-app/mylibrary/src/main/cpp/native-sign-utils.cpp:167:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+E:/StudioProjects/sign-app/mylibrary/src/main/cpp/native-sign-utils.cpp:204:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+2 warnings generated.
+[2/2] Linking CXX shared library E:\StudioProjects\sign-app\mylibrary\build\intermediates\cmake\debug\obj\arm64-v8a\libnative-sign-utils.so

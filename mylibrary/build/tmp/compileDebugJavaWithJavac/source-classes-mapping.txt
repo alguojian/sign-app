@@ -1,0 +1,4 @@
+com/signapp/sign/BuildConfig.java
+ com.signapp.sign.BuildConfig
+com/signapp/sign/AESCoder.java
+ com.signapp.sign.AESCoder

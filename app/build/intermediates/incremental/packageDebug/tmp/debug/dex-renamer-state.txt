@@ -1,0 +1,4 @@
+#Thu Feb 17 11:32:22 CST 2022
+base.0=E\:\\StudioProjects\\sign-app\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

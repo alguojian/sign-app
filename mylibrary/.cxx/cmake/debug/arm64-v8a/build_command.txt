@@ -1,0 +1,23 @@
+                Executable : E:\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HE:\StudioProjects\sign-app\mylibrary\src\main\cpp
+-DCMAKE_CXX_FLAGS=-DAPP_SHA1_DATA=12312312313131231231312312
+-DCMAKE_FIND_ROOT_PATH=E:\StudioProjects\sign-app\mylibrary\.cxx\cmake\debug\prefab\arm64-v8a\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=E:\Android\Sdk\ndk\21.1.6352462\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=E:\Android\Sdk\ndk\21.1.6352462
+-DANDROID_PLATFORM=android-18
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=E:\Android\Sdk\ndk\21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\StudioProjects\sign-app\mylibrary\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_MAKE_PROGRAM=E:\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=18
+-DAPP_SHA1_DATA=12312312313131231231312312
+-BE:\StudioProjects\sign-app\mylibrary\.cxx\cmake\debug\arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

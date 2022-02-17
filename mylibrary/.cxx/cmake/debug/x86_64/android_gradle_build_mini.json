@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\StudioProjects\\sign-app\\mylibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\debug\\x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "E:\\StudioProjects\\sign-app\\mylibrary\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "native-sign-utils-Debug-x86_64": {
+      "artifactName": "native-sign-utils",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\StudioProjects\\sign-app\\mylibrary\\.cxx\\cmake\\debug\\x86_64\" native-sign-utils",
+      "abi": "x86_64",
+      "output": "E:\\StudioProjects\\sign-app\\mylibrary\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnative-sign-utils.so",
+      "runtimeFiles": []
+    }
+  }
+}

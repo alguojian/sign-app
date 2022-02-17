@@ -1,0 +1,4 @@
+E:/StudioProjects/sign-app/mylibrary/.cxx/cmake/release/x86/CMakeFiles/native-sign-utils.dir
+E:/StudioProjects/sign-app/mylibrary/.cxx/cmake/release/x86/CMakeFiles/native-lib.dir
+E:/StudioProjects/sign-app/mylibrary/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+E:/StudioProjects/sign-app/mylibrary/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
